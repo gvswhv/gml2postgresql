@@ -1,0 +1,22 @@
+[general]
+name=GML2PostgreSQL
+qgisMinimumVersion=3.0
+description=Importiert XPlanung-Objektarten aus GML-Dateien in eine PostgreSQL/PostGIS-Datenbank.
+version=0.3
+author=Stadt Wilhelmshaven
+email=GVS@wilhelmshaven.de
+
+about=GML2PostgreSQL automatisiert den Import von XPlanung 5.x-Objekten aus GML-Dateien in eine vorhandene PostgreSQL/PostGIS-Datenbank. Das Plugin erkennt relevante Objektarten, konvertiert Kurvengeometrien, transformiert Koordinaten nach EPSG:25832 und verhindert Duplikate anhand der gml_id. Eine Logausgabe dokumentiert den Verarbeitungsfortschritt und kann als Textdatei gespeichert werden. Entwickelt von der Stadt Wilhelmshaven fuer den Einsatz in kommunalen GIS-Workflows.
+
+tracker=https://github.com/gvswhv/gml2postgresql/issues
+repository=https://github.com/gvswhv/gml2postgresql
+homepage=https://github.com/gvswhv/gml2postgresql
+
+tags=XPlanung, GML, PostgreSQL, PostGIS, Bauleitplanung, Stadtplanung, Import, urban planning
+
+category=Database
+icon=icon.png
+
+experimental=False
+deprecated=False
+server=False

@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# QGIS
+*.log
+*.qpt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Plugin development artefacts
+*.zip
+pb_tool.cfg
+
+# Empty boilerplate folders (do not commit)
+scripts/
+test/
+i18n/
+help/
+
+# Duplicate documentation
+README.txt

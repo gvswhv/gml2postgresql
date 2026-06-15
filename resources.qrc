@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/gml2postgresql" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
