@@ -12,7 +12,7 @@ GML2PostgreSQL ist ein QGIS-Plugin zur automatisierten Übernahme von XPlanung-O
 
 Das Plugin wurde von der **Stadt Wilhelmshaven** entwickelt und als Open-Source-Werkzeug für andere Kommunen und Planungsbehörden bereitgestellt.
 
-**Herausgeber:** Stadt Wilhelmshaven – Geoinformatik, Vermessung und Statistik (GVS)
+**Herausgeber:** Stadt Wilhelmshaven – Geoinformation, Vermessung und Statistik (GVS)
 **Entwickler:** Ahmed Letaief
 **Kontakt:** GVS@wilhelmshaven.de
 
@@ -184,7 +184,7 @@ GML2PostgreSQL is a QGIS plugin for automated import of XPlanung objects from GM
 The plugin was developed by the **City of Wilhelmshaven** and released as an open-source tool for other municipalities and planning authorities.
 
 **Developer:** Ahmed Letaief
-**Publisher:** City of Wilhelmshaven – Geoinformatics, Surveying and Statisitcs (GVS)
+**Publisher:** City of Wilhelmshaven – Geoinformation, Surveying and Statisitcs (GVS)
 **Contact:** GVS@wilhelmshaven.de
 
 ---
